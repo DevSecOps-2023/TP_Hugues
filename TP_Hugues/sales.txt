@@ -1,0 +1,84 @@
+12:38:01
+le nombre de rtx3060 vendu cette minute est de : 2
+le nombre de rtx3070 vendu cette minute est de : 7
+le nombre de rtx3080 vendu cette minute est de : 7
+le nombre de rtx3090 vendu cette minute est de : 19
+le nombre de rx6700 vendu cette minute est de : 0
+12:39:01
+le nombre de rtx3060 vendu cette minute est de : 9
+le nombre de rtx3070 vendu cette minute est de : 16
+le nombre de rtx3080 vendu cette minute est de : 16
+le nombre de rtx3090 vendu cette minute est de : 5
+le nombre de rx6700 vendu cette minute est de : 15
+12:40:01
+le nombre de rtx3060 vendu cette minute est de : 7
+le nombre de rtx3070 vendu cette minute est de : 0
+le nombre de rtx3080 vendu cette minute est de : 0
+le nombre de rtx3090 vendu cette minute est de : 8
+le nombre de rx6700 vendu cette minute est de : 15
+12:41:02
+le nombre de rtx3060 vendu cette minute est de : 17
+le nombre de rtx3070 vendu cette minute est de : 3
+le nombre de rtx3080 vendu cette minute est de : 3
+le nombre de rtx3090 vendu cette minute est de : 5
+le nombre de rx6700 vendu cette minute est de : 5
+12:42:01
+le nombre de rtx3060 vendu cette minute est de : 4
+le nombre de rtx3070 vendu cette minute est de : 6
+le nombre de rtx3080 vendu cette minute est de : 6
+le nombre de rtx3090 vendu cette minute est de : 1
+le nombre de rx6700 vendu cette minute est de : 9
+12:43:01
+le nombre de rtx3060 vendu cette minute est de : 13
+le nombre de rtx3070 vendu cette minute est de : 10
+le nombre de rtx3080 vendu cette minute est de : 10
+le nombre de rtx3090 vendu cette minute est de : 10
+le nombre de rx6700 vendu cette minute est de : 7
+12:44:01
+le nombre de rtx3060 vendu cette minute est de : 1
+le nombre de rtx3070 vendu cette minute est de : 18
+le nombre de rtx3080 vendu cette minute est de : 18
+le nombre de rtx3090 vendu cette minute est de : 3
+le nombre de rx6700 vendu cette minute est de : 15
+12:45:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:46:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:47:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:48:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:49:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:50:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 
+12:51:01
+le nombre de rtx3060 vendu cette minute est de : 
+le nombre de rtx3070 vendu cette minute est de : 
+le nombre de rtx3080 vendu cette minute est de : 
+le nombre de rtx3090 vendu cette minute est de : 
+le nombre de rx6700 vendu cette minute est de : 

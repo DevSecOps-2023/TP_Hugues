@@ -1,0 +1,2 @@
+*/1 * * 1-6,12 * /home/hugues/TP_HUGUES/tp.sh
+#un crontab qui effectue l'action chaque minute pendant les mois de formations.
